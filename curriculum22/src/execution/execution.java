@@ -1,4 +1,6 @@
-package curriculum22;
+package execution;
+
+import process.process;
 
 public class execution {
 public static void main(String[] args) {
