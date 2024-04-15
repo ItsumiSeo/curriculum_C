@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	//呼び出し
 	process japan = new process("こんにちは！ここは日本です！","この寿司はうまい","寿司は和食です");
 	
-	//使用
+	//コンソールに出力
 	System.out.println(process.gr);
 	System.out.println(process.sushi);
 	System.out.println(process.wasyoku);
