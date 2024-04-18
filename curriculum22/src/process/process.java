@@ -7,6 +7,7 @@ public class process {
 		public static String sushi;
 		public static String wasyoku;
 		
+		
 		//thisの使用
 		public process(String gr,String sushi,String wasyoku) {
 			this.gr = gr;
